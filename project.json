@@ -3,6 +3,8 @@
   "description": "Mi primer programa RPA.",
   "main": "Main.xaml",
   "dependencies": {
+    "SQLiteDatabaseForUiPath": "[1.0.17]",
+    "UiPath.Database.Activities": "[1.6.1]",
     "UiPath.Excel.Activities": "[2.12.3]",
     "UiPath.Mail.Activities": "[1.15.1]",
     "UiPath.PDF.Activities": "[3.6.0]",
